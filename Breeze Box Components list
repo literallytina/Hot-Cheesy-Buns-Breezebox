@@ -1,0 +1,17 @@
+# Hot-Cheesy-Buns-Breezebox
+SENSOR:
+GP2Y1014A - PM2.5 Air Sensor: 1
+(https://joy-it.net/en/products/SEN-GP2Y1014AU)
+Ethernet cable: 1
+L293D DC Driver: 1
+Arduino UNO: 1
+Arduino UNO Ethernet Shield: 1
+12 V Battery or Plug: 1
+
+PURIFIER:
+Activated carbon fiber: 4 pieces
+12V DC Computer Fan: 1
+Computer Fan Dust Filter: 1
+driver: 1
+Panel: 4 for sides & 2 for top and bottom
+
